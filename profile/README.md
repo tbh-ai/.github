@@ -80,7 +80,6 @@ To get started with our projects:
 1. Check out the [SecureAgents repository](https://github.com/tbh-ai/SecureAgents)
 2. Read our [documentation](https://tbh-ai.github.io/SecureAgents/)
 3. Try our [examples](https://github.com/tbh-ai/SecureAgents/tree/main/examples)
-4. Join our [community discussions](https://github.com/tbh-ai/SecureAgents/discussions)
 
 ## Contributing
 
@@ -98,4 +97,4 @@ We welcome contributions from the community! If you're interested in contributin
 
 ## License
 
-Our projects are typically released under the MIT License. See individual repositories for specific licensing information.
+Our projects are typically released under the Apache 2.0. See individual repositories for specific licensing information.
