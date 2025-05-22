@@ -1,7 +1,7 @@
 # TBH.AI - Trustworthy AI Systems
 
 <div align="center">
-  <img src="https://github.com/tbh-ai/.github/assets/156157853/c1a1c1c3-5c0c-4c9c-a0a3-c9c9c9c9c9c9" alt="TBH.AI Logo" width="300"/>
+  <img width="618" alt="Main" src="https://github.com/user-attachments/assets/dbbf5a4f-7b0b-4f43-9b37-ef77dc761ff1" /> 
   <h3>Building Secure, Trustworthy AI Infrastructure</h3>
 </div>
 
