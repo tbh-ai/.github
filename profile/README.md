@@ -1,4 +1,4 @@
-# clyrai (formerly TBH.AI) - Trustworthy AI Systems
+#  TBH.AI (Now know as clyrai) - Trustworthy AI Systems
 
 <div align="center">
   <img width="618" alt="Main" src="https://github.com/user-attachments/assets/dbbf5a4f-7b0b-4f43-9b37-ef77dc761ff1" /> 
@@ -7,16 +7,17 @@
 
 ## About clyrai
 
-clyrai (formerly TBH.AI) is at the forefront of AI security, developing frameworks, tools, and models that enable organizations to build and deploy trustworthy AI systems.  
+TBH.AI (Now know as clyrai)  is at the forefront of AI security, developing frameworks, tools, and models that enable organizations to build and deploy trustworthy AI systems.  
 Our mission is to ensure that as AI becomes more powerful and pervasive, it remains secure, reliable, and aligned with human values.
 
-The name change reflects our broader vision and long-term commitment to pioneering innovation in AI + security, while continuing to build on the strong foundation established under TBH.AI.
+The name change (clyrai) reflects our broader vision and long-term commitment to pioneering innovation in AI + security, while continuing to build on the strong foundation established under TBH.AI.
 
 ### Our Focus Areas
 
 - **AI Security Frameworks**: Comprehensive security architectures for multi-agent AI systems
 - **Secure LLM Infrastructure**: Tools and methodologies for deploying large language models in secure environments
 - **Trustworthy AI Research**: Advancing the state of the art in AI alignment, safety, and security
+
 
 ## Our Projects
 
